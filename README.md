@@ -28,7 +28,7 @@ Explore the fascinating world of cricket through our analytics project and gain 
 
 
 ## ScreenShots
-![Alt text](<img width="706" alt="Screenshot 2024-01-21 013014" src="https://github.com/divanshu31/End-to-End-Cricket-Data-Analysis/assets/90476277/e986907c-8d6c-4f3b-94d6-e286a1abeb16">)
+![Alt text](https://github.com/divanshu31/End-to-End-Cricket-Data-Analysis/assets/90476277/e986907c-8d6c-4f3b-94d6-e286a1abeb16)
 
 
 
